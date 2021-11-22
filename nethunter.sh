@@ -15,7 +15,7 @@ function checkinternet()
   fi
 }
 checkinternet
-echo Kali install
+echo Kali Nethunter
 clear
 sleep 3
 echo Configuration Started
