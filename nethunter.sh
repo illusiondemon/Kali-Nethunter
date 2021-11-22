@@ -16,6 +16,7 @@ function checkinternet()
 }
 checkinternet
 sleep 3
+clear
 echo Kali Nethunter
 sleep 3
 clear
