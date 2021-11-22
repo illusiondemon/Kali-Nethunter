@@ -1,3 +1,5 @@
+fi
+clear
 function checkinternet() 
 {
   ping -c 1 google.com > /dev/null 2>&1
