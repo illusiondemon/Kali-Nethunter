@@ -21,7 +21,7 @@ echo "#Install Kali Nethunter | Without Root"
 sleep 5
 clear
 echo ' Configuration Started'
-echo 'It will take a few hours'
+echo 'It will takea few hours'
 sleep 2
 termux-setup-storage
 apt update
