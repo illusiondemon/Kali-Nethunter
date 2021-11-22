@@ -15,9 +15,10 @@ function checkinternet()
   fi
 }
 checkinternet
-echo Kali Nethunter
-clear
 sleep 3
+echo Kali Nethunter
+sleep 3
+clear
 echo Configuration Started
 echo It will take a few hours
 sleep 2
